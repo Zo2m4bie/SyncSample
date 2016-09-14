@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SyncAdapterSample</string>
+    <string name="account_type" translatable="false">com.syncadaptersample.account</string>
+    <string name="authority" translatable="false">com.syncadaptersample</string>
+    <string name="sync_start">Sync start</string>
+    <string name="sync_end">Sync end</string>
+    <string name="sync_in_progress">Sync in progress</string>
+    <string name="sync_impossible">Sync is imposible</string>
+</resources>
